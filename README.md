@@ -111,15 +111,19 @@ In field JDBC URL put
 jdbc:h2:mem:shopping_cart_db
 In /src/main/resources/application.properties file it is possible to change both web interface url path, as well as the datasource url.
 
+# ProjectStructure[![](https://github.com/rits007/items-on-sale/blob/main/projectStructure.PNG)]
+
 Swagger
 http://localhost:8080/swagger-ui.html
 
 
 # Running application[![](https://github.com/rits007/items-on-sale/blob/main/running%20application.PNG)]
 
-# Resources[![](https://github.com/rits007/items-on-sale/blob/main/resources.PNG)]
-# login[![]()]
-# success[![]()]
-# authenticationFails[![]()]
+# login[![](https://github.com/rits007/items-on-sale/blob/main/login-validation.PNG)]
+
+# success[![ ](https://github.com/rits007/items-on-sale/blob/main/success.PNG)]
+
+# authenticationFails[![CC0](https://github.com/rits007/items-on-sale/blob/main/403%20error.PNG)]
+
 
 
