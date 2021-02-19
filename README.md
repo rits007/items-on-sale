@@ -117,7 +117,7 @@ http://localhost:8080/swagger-ui.html
 
 # Running application[![](https://github.com/rits007/items-on-sale/blob/main/running%20application.PNG)]
 
-# Resources[![]()]
+# Resources[![](https://github.com/rits007/items-on-sale/blob/main/resources.PNG)]
 # login[![]()]
 # success[![]()]
 # authenticationFails[![]()]
