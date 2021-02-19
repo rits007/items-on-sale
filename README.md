@@ -113,3 +113,13 @@ In /src/main/resources/application.properties file it is possible to change both
 
 Swagger
 http://localhost:8080/swagger-ui.html
+
+
+# Running application[![](https://github.com/rits007/items-on-sale/blob/main/running%20application.PNG)]
+
+# Resources[![]()]
+# login[![]()]
+# success[![]()]
+# authenticationFails[![]()]
+
+
